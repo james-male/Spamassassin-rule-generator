@@ -1,0 +1,1 @@
+# Spamassassin-rule-generator
